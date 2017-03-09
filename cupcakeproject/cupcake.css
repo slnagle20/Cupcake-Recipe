@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+text-align: center;
+}
+h5 {
+  text-align: center;
+}
+h6 {
+  text-align: center;
+}
+h1, h3 {
+  font-family: "Lucida Handwriting", "Monotype Corsiva", sans-serif;
+}
+ul, ol {
+  font-family: "Lucida Handwriting", "Monotype Corsiva", sans-serif;
+}
+ul {
+  list-style-type: circle;
+}
+body {
+  background-color: #bb99ff;
+  color: #006bb3
+}
+img {
+     margin: 50px 10px 50px 170px;
+     border-radius: 10%;
+   }
